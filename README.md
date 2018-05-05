@@ -1,4 +1,6 @@
 # Sensor data mining
+[![Build Status](https://travis-ci.com/asw-i3a/sensor-data-mining.svg?branch=master)](https://travis-ci.com/asw-i3a/sensor-data-mining)
+
 **Welcome to our sensor data mining micro-service**
 
 > **Important:**  This micro-service is contained inside the domain of the i3a system, if you dont knoe what it is please, refer to the main page of the [poject](https://github.com/asw-i3a).
