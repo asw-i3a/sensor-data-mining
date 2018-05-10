@@ -2,7 +2,7 @@
 
 | | **Status** |
 |---|:----|
-| **circleCI** |[![Build Status](https://travis-ci.com/asw-i3a/sensor-data-mining.svg?branch=master)](https://travis-ci.com/asw-i3a/sensor-data-mining)
+| **circleCI** |[![CircleCI](https://circleci.com/gh/asw-i3a/sensor-data-mining.svg?style=svg)](https://circleci.com/gh/asw-i3a/sensor-data-mining)
 | **code coverage** | _NOT NEED_
 | **code quality** |_NOT NEED_
 | **latest build** |_NOT NEED_
