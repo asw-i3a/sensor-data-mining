@@ -3,9 +3,9 @@
 | | **Status** |
 |---|:----|
 | **circleCI** |[![Build Status](https://travis-ci.com/asw-i3a/sensor-data-mining.svg?branch=master)](https://travis-ci.com/asw-i3a/sensor-data-mining)
-| **code coverage** |-
-| **code quality** |-
-| **latest build** |-
+| **code coverage** | _NOT NEED_
+| **code quality** |_NOT NEED_
+| **latest build** |_NOT NEED_
 
 **Welcome to our sensor data mining micro-service**
 
